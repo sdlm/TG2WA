@@ -3,6 +3,7 @@ name = "tg2wa"
 version = "0.1.0"
 description = "Перенос сообщений и фото из Telegram-канала в группу WhatsApp"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.10"
 dependencies = [
     "neonize>=0.3.18.post0",
