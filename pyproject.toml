@@ -1,0 +1,12 @@
+[project]
+name = "tg2wa"
+version = "0.1.0"
+description = "Перенос сообщений и фото из Telegram-канала в группу WhatsApp"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "neonize>=0.3.18.post0",
+    "python-dotenv>=1.2.2",
+    "qrcode>=8.2",
+    "telethon>=1.43.2",
+]
